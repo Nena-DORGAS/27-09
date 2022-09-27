@@ -158,7 +158,8 @@ footer{
   }
   .redes {
     background-color: rgb(241, 252, 97);
-    display:inline-block
+    display:inline-block;
+    font-family: cursive;
 
   }
 
